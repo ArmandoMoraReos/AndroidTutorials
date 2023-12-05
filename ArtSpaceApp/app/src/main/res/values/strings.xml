@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+    <string name="title_img1">Still Life of Blue Rose and Other Flowers\"</string>
+    <string name="author_img1">Owen Scott(2021)</string>
+    <string name="title_img2">Picture 2</string>
+    <string name="authot_img2">Author2 (2023)</string>
+    <string name="title_img3">Picture 3</string>
+    <string name="authot_img3">Author3 (2024)</string>
+</resources>

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.arm.happybirthdaycard'
+    namespace 'com.arm.happybirthday'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.arm.happybirthdaycard"
+        applicationId "com.arm.happybirthday"
         minSdk 24
         targetSdk 33
         versionCode 1
